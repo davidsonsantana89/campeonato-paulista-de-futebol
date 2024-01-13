@@ -1,7 +1,5 @@
 nacao;campeonato;rodada;ano;dia;home;away;HGHT;AGHT;HGFT;AGFT;odd_home;odd_draw;odd_away;over25;endereco
-BRAZIL;PAULISTA;ROUND 1;2014;18.01.2014;Paulista;Audax-SP;0;0;0;0;nan;nan;nan;nan;https://www.flashscore.com/match/GYPITOpO/#/match-summary
-nacao;campeonato;rodada;ano;dia;home;away;HGHT;AGHT;HGFT;AGFT;odd_home;odd_draw;odd_away;over25;endereco
-BRAZIL;PAULISTA;ROUND 1;2014;18.01.2014;Paulista;Audax-SP;0;0;0;0;nan;nan;nan;nan;https://www.flashscore.com/match/GYPITOpO/#/match-summary
+BRAZIL;PAULISTA;ROUND 1;2014;18.01.2014;Paulista;Audax-SP;0;0;0;0;2.56;3.47;2.65;1.87;https://www.flashscore.com/match/GYPITOpO/#/match-summary
 BRAZIL;PAULISTA;ROUND 1;2014;18.01.2014;Palmeiras;Linense;0;1;2;1;1.31;4.62;8.45;1.64;https://www.flashscore.com/match/tGcuoQFb/#/match-summary
 BRAZIL;PAULISTA;ROUND 1;2014;18.01.2014;Sao Bernardo;Botafogo SP;1;0;1;0;2.06;3.28;3.22;1.88;https://www.flashscore.com/match/fPOMSr0U/#/match-summary
 BRAZIL;PAULISTA;ROUND 1;2014;18.01.2014;Santos;Piracicaba;1;0;1;0;1.36;4.5;7.2;1.64;https://www.flashscore.com/match/AyNAVpGB/#/match-summary
@@ -11,19 +9,7 @@ BRAZIL;PAULISTA;ROUND 1;2014;19.01.2014;Portuguesa;Corinthians;1;2;1;2;5.4;3.62;
 BRAZIL;PAULISTA;ROUND 1;2014;19.01.2014;Bragantino;Sao Paulo;1;0;2;0;5.65;3.78;1.52;1.76;https://www.flashscore.com/match/faeTmSVu/#/match-summary
 BRAZIL;PAULISTA;ROUND 1;2014;19.01.2014;Oeste;Penapolense;1;0;1;0;1.88;3.38;3.7;1.81;https://www.flashscore.com/match/YkfXnnon/#/match-summary
 BRAZIL;PAULISTA;ROUND 2;2014;21.01.2014;Linense;Rio Claro;0;0;0;0;1.86;3.32;3.72;1.96;https://www.flashscore.com/match/W8rPpHLF/#/match-summary
-BRAZIL;PAULISTA;ROUND 2;2014;21.01.2014;Audax-SP;Santos;1;0;1;1;nan;nan;nan;nan;https://www.flashscore.com/match/UqbQPFqj/#/match-summary
-nacao;campeonato;rodada;ano;dia;home;away;HGHT;AGHT;HGFT;AGFT;odd_home;odd_draw;odd_away;over25;endereco
-BRAZIL;PAULISTA;ROUND 1;2014;18.01.2014;Paulista;Audax-SP;0;0;0;0;nan;nan;nan;nan;https://www.flashscore.com/match/GYPITOpO/#/match-summary
-BRAZIL;PAULISTA;ROUND 1;2014;18.01.2014;Palmeiras;Linense;0;1;2;1;1.31;4.62;8.45;1.64;https://www.flashscore.com/match/tGcuoQFb/#/match-summary
-BRAZIL;PAULISTA;ROUND 1;2014;18.01.2014;Sao Bernardo;Botafogo SP;1;0;1;0;2.06;3.28;3.22;1.88;https://www.flashscore.com/match/fPOMSr0U/#/match-summary
-BRAZIL;PAULISTA;ROUND 1;2014;18.01.2014;Santos;Piracicaba;1;0;1;0;1.36;4.5;7.2;1.64;https://www.flashscore.com/match/AyNAVpGB/#/match-summary
-BRAZIL;PAULISTA;ROUND 1;2014;18.01.2014;Rio Claro;Atl. Sorocaba;1;0;1;0;2.09;3.32;3.15;1.78;https://www.flashscore.com/match/SCgyn60h/#/match-summary
-BRAZIL;PAULISTA;ROUND 1;2014;18.01.2014;Mogi Mirim;Comercial;0;0;2;1;1.78;3.48;4.08;1.76;https://www.flashscore.com/match/OvmpppV4/#/match-summary
-BRAZIL;PAULISTA;ROUND 1;2014;19.01.2014;Portuguesa;Corinthians;1;2;1;2;5.4;3.62;1.58;2.3;https://www.flashscore.com/match/SCX5WQ05/#/match-summary
-BRAZIL;PAULISTA;ROUND 1;2014;19.01.2014;Bragantino;Sao Paulo;1;0;2;0;5.65;3.78;1.52;1.76;https://www.flashscore.com/match/faeTmSVu/#/match-summary
-BRAZIL;PAULISTA;ROUND 1;2014;19.01.2014;Oeste;Penapolense;1;0;1;0;1.88;3.38;3.7;1.81;https://www.flashscore.com/match/YkfXnnon/#/match-summary
-BRAZIL;PAULISTA;ROUND 2;2014;21.01.2014;Linense;Rio Claro;0;0;0;0;1.86;3.32;3.72;1.96;https://www.flashscore.com/match/W8rPpHLF/#/match-summary
-BRAZIL;PAULISTA;ROUND 2;2014;21.01.2014;Audax-SP;Santos;1;0;1;1;nan;nan;nan;nan;https://www.flashscore.com/match/UqbQPFqj/#/match-summary
+BRAZIL;PAULISTA;ROUND 2;2014;21.01.2014;Audax-SP;Santos;1;0;1;1;4.57;3.52;1.69;1.99;https://www.flashscore.com/match/UqbQPFqj/#/match-summary
 BRAZIL;PAULISTA;ROUND 2;2014;22.01.2014;Ituano;Portuguesa;0;0;0;0;2.37;3.18;2.88;2.07;https://www.flashscore.com/match/nL8LQeUq/#/match-summary
 BRAZIL;PAULISTA;ROUND 2;2014;22.01.2014;Atl. Sorocaba;Oeste;0;1;1;1;2.14;3.2;3.28;2.02;https://www.flashscore.com/match/hIqLoc69/#/match-summary
 BRAZIL;PAULISTA;ROUND 2;2014;22.01.2014;Piracicaba;Sao Bernardo;0;2;1;2;2.0;3.32;3.58;2.0;https://www.flashscore.com/match/AeohrOaH/#/match-summary
